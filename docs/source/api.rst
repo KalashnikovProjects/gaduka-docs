@@ -1,4 +1,4 @@
-API
+Ещё что-то
 ===
 
 .. autosummary::
