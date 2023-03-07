@@ -1,19 +1,20 @@
-Welcome to Lumache's documentation!
+Язык программирования Гадюка
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Гадюка** - язык программирования, для начинающих
+Код на гадюке очень простой, и полностью на русском языке.
+Для наглядности программирования, с помощью гадюки редактировать изображения.
+Также, у гадюки есть своё сообщество на сайте: <https://world.openfoodfacts.org/>`_
+И чат бот в телеграмме.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This project is under active development
 
-Contents
+Содержание документации
 --------
 
 .. toctree::
