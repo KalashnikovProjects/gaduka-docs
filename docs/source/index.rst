@@ -13,5 +13,5 @@
 
 .. toctree::
    
-   Usage
-   Api
+   usage
+   api
