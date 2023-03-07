@@ -1,1 +1,1 @@
-furo
+pip install furo
