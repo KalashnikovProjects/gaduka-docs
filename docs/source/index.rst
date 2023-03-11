@@ -12,6 +12,6 @@
 --------
 
 .. toctree::
-   
-   usage
-   api
+   start
+   syntax
+   comands
