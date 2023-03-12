@@ -25,7 +25,6 @@
 --------
 
 .. toctree::
-   index
    start
    syntax
    comands
