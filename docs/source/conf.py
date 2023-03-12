@@ -29,6 +29,7 @@ templates_path = ['_templates']
 
 html_theme = "furo"
 html_logo = "https://iili.io/HXlfDvt.png"
+html_title = "Документация по языку Гадюка"
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
