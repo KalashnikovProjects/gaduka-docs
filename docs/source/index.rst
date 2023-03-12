@@ -25,7 +25,7 @@
 --------
 
 .. toctree::
-   index :hidden:
+   index :maxdepth: 1
    start
    syntax
    comands
