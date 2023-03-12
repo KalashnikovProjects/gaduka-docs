@@ -2,5 +2,4 @@
 ===
 
 .. autosummary::
-   index
    :toctree: generated
