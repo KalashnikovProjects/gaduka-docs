@@ -25,7 +25,7 @@
 --------
 
 .. toctree::
-   index
+   :maxdepth: 3 index
    start
    syntax
    comands
