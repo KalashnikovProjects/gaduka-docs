@@ -28,7 +28,7 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = "furo"
-html_logo = "https://iili.io/HXlKaUP.md.png"
+html_logo = "https://iili.io/HXlfDvt.png"
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
