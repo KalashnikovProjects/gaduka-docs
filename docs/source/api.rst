@@ -2,6 +2,5 @@
 ===
 
 .. autosummary::
+   index
    :toctree: generated
-
-   lumache
