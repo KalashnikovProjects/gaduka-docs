@@ -25,7 +25,6 @@
 --------
 
 .. toctree::
-   :hidden: index
    start
    syntax
    comands
