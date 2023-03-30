@@ -1,9 +1,10 @@
-Template for the Read the Docs tutorial
+Документация к языку программирования Гадюка
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Сайт Гадюки.
 
-Read the tutorial here:
+https://gaduka.sytes.net/
 
-https://docs.readthedocs.io/en/stable/tutorial/
+Сама документация
+
+https://gaduka-docs.readthedocs.io/
