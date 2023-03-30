@@ -4,5 +4,5 @@
 Сайт Гадюки.
 https://gaduka.sytes.net/
 
-Сама документация
+Сама документации
 https://gaduka-docs.readthedocs.io/
