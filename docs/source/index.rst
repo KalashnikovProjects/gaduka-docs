@@ -25,6 +25,6 @@
 --------
 
 .. toctree::
-   start
+   examples
    syntax
    comands
