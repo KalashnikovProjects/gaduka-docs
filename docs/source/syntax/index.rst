@@ -5,7 +5,7 @@
 
 - Все арифметические операторы совпадают с операторами из Python 3.7
 
-.. code:: python 
+.. code-block:: python 
 
     a + b    a * b    a ** b    a % b
     a - b    a / b    a // b
