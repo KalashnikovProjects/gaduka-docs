@@ -2,9 +2,7 @@
 =======================================
 
 Сайт Гадюки.
-
 https://gaduka.sytes.net/
 
 Сама документация
-
 https://gaduka-docs.readthedocs.io/
