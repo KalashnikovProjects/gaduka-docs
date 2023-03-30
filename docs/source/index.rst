@@ -26,5 +26,5 @@
 
 .. toctree::
    examples
-   syntax
+   syntax/index
    comands
