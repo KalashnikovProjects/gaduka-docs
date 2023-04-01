@@ -12,9 +12,8 @@
                      "ImageDraw", "ImageFont", 'compiler_data', 'ImageFilter', "del",
                      "return", "assert", "nonlocal", "global", "super", 'quit', 'raise'
 
-=====  =====  ======
-False  False  False
-True   False  True
-False  True   True
-True   True   True
-=====  =====  ======
+=====  =====  ======  ===========  =============  ======  ======
+eval   PIL    exit    ImageFont    compiler_data  lambda  quit
+exec   Image  sys     ImageFilter  nonlocal       global  super
+os     True   import  ImageDraw    assert         return  assert 
+=====  =====  ======  ===========  =============  ======  ======
