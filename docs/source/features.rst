@@ -33,6 +33,7 @@ os     True   import  ImageDraw    assert         return  assert
 Координаты измеряются в долях от ширины / высоты изображения
 
 Переменные координат
+
 .. code-block:: python 
 
   левый_верхний_угол = (0.05, 0.05)
