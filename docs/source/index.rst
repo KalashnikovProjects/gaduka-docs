@@ -27,4 +27,5 @@
 .. toctree::
    examples
    syntax
+   types
    comands
