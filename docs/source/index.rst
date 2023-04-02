@@ -25,6 +25,8 @@
 --------
 
 .. toctree::
+   :maxdepth: 2
+
    examples
    syntax
    types
