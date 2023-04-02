@@ -29,4 +29,5 @@
    syntax
    types
    features
+   funcs
    comands
