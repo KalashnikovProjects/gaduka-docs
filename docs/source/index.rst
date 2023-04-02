@@ -27,6 +27,6 @@
 .. toctree::
    examples
    syntax
-   features
    types
+   features
    comands
