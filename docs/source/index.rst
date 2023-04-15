@@ -32,4 +32,4 @@
    types
    features
    funcs
-   comands
+   commands
