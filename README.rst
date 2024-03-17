@@ -3,7 +3,7 @@
 
 Это репозиторий исходников документации, основной репозиторий - 
 
-> https://github.com/KalashnikovProjects/Gaduka
+  >  https://github.com/KalashnikovProjects/Gaduka
 
 Сайт Гадюки.
 https://gaduka.sytes.net/
