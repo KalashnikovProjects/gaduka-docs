@@ -24,7 +24,7 @@
 .. admonition:: Удалено!
    :class: warning
 
-   Из последней версии Гадюки были удалены команды, все они заменены на `функции <https://gaduka-docs.readthedocs.io/funcs.html>`_
+   Из последней версии Гадюки команды были удалены, все они заменены на `функции <https://gaduka-docs.readthedocs.io/funcs.html>`_
 
 Содержание документации
 --------
