@@ -37,4 +37,3 @@
    types
    features
    funcs
-   commands
