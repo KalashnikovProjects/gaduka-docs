@@ -22,7 +22,7 @@
    Она подходит для уже знающих Python людей, но не подходит для начинающих в программировании.
 
 .. admonition:: Удалено!
-   :class: attention
+   :class: warning
 
    Из последней версии Гадюки были удалены команды, все они заменены на `функции <https://gaduka-docs.readthedocs.io/funcs.html>`_
 
